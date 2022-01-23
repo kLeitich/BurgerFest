@@ -315,3 +315,54 @@ padding-top: 8px;
 .burg2a{
     width: 100%;
 }
+
+
+
+
+
+
+
+.phone{
+    background-color: #F6B400;
+    width: 100%;
+    display: flex;
+}
+.phone .textp{
+    display: block;
+}
+.phone .textp .textp1{
+    width: 100%;
+    position: relative;
+
+}
+.phone .textp .textp1 p{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 20%;
+    margin-left: 10%;
+    
+}
+.phone .textp .download{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.phone .textp .download .download1{
+    width: 20%;
+}
+.phone .textp .download .download2{
+    padding: auto;;
+}
+.phone .phoneimg {
+    display: flex;
+    
+    margin-right: 10%;
+    margin-top: 5%;
+}
+.phone .phoneimg .cell1{
+    padding: 10%;
+}
+.phone .phoneimg .cell2{
+    padding: 10%;
+}
