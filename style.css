@@ -1,70 +1,108 @@
-html{
-    background-color: white;
-   
-}
-body{
+*{
+    box-sizing: content-box ;
     margin: 0;
-    padding: 0
+    padding: 0;
 }
-.toplogo{
-    font-style: oblique;
-    font-weight: 700;
-    font-size: xxx-large;
-    text-decoration: none;
-    text-align: left;
+
+
+
+
+#topmenu .toplogo img{
+    margin-left: 50px;
+    margin-top: 5px;
 }
-.toplist{
-    text-align: right;
-}
-ul.toplist li{
+#topmenu .toplogo h1{
     display: inline;
-    margin-right: 60px;
-    font-size: x-large;
-    text-align: right;
+    margin-top: 30px;
+    font-family: 'lobster';
+    font-size: 35px;
+}
+#topmenu .toplogo h1 span{
+    color: orange;
+}
+#topmenu .toplogo{
+    display: flex;
+}
+#navmenu{
+    margin-left: 25%;
+}
+#navmenu li{
+    display: inline;
+    padding-top: 40px;
+    padding-left: 80px;
+    float: left;
+    font-size: 20px;
+    font-family: 'poppins';
+    font-weight: 800;
+}
+#navmenu li a{
+    text-decoration: none;
+    color: black;
+}
+#navmenu li a img{
+    height: 25px;
+}
+
+
+
+
+#topmenu{
+    padding-left: 90px;
+    padding-top: 100px;
+}
+.content{
+    background: linear-gradient(100deg, white,white 52%, orange 7%);
 }
 #top{
     display: flex;
-    background: linear-gradient(
-        to right
-        white 0%
-        white 70%
-        orange 30%
-        orange 0%
-    );
-    align-items: center;
 }
-.lburger{
-    max-width: 100%;
+.top1{
+    padding-left: 90px;
+    padding-top: 100px;
 }
-.rain{
-    font-size: xx-large;
-    font-family: 'Arial';
+#top .text1 .rain{
+    font-family: 'poppins';
+    font-weight: bold;
+    font-size: 35px;
+}
+#top .text1 .we{
+    font-family: 'poppins';
+    font-size: 15px;
+    padding-top: 35px;
+}
+#order{
+    margin-left: 10px;
+    margin-top: 100px;
+    height: 50px;
+    width: 150px;
+    color: white;
+    background-clip: content-box;
+    background-color: orange;
+    border-radius: 50px;
+}
+#order h2{
+    text-align: center;
+    padding-top: 13px;
+    font-family: 'poppins';
+    font-size: 15px;
+
+}
+#order h2 a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+#order h2 a:hover{
+    color: black;
+}
+.top1{
+    width: 50%;
+    float: left;
+    padding: 0x;
+}
+.top1 img{
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 85px;
 }
 
-.we{
-    font-weight: 400;
-}
-button{
-    background-color: orange;
-    border-radius: 10%;
-}
-#ksp#ksp1{
-    width: 120px;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 0;
-  }
-#offer{
-    background-color: whitesmoke;
-}
-#phone{
-    background-color: orange;
-}
-footer{
-    font-weight: bold;
-    display: center;
-    
-}
-#ksp{
-    background-color: whitesmoke;
-}
