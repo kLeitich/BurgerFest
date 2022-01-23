@@ -18,3 +18,4 @@ Author:Kevin Leitich
 https://kleitich.github.io/BurgerFest/
 
 All right reserved 2022.
+No licenses.
