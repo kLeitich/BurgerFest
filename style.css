@@ -245,3 +245,73 @@
     border-radius: 20px;
     background-color: #E1EBE6;
 }
+
+
+
+
+.offer{
+    background-color: wheat;
+    display: flex;
+    width: 100%;   
+}
+.offer .texto{
+    margin: 5%;
+    width: 100%;
+}
+.offer .texto .the{
+    font-family: 'poppins';
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 10%; 
+}
+.offer .text1 .par1 span{
+    color: yellow;
+}
+.offer .texto .taste{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 5%;
+}
+.offer .dots{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 0%;  
+}
+.offer .dots .dot1{
+    display: flex; 
+}
+
+.offer .dots .dot1a{
+    display: flex;
+    width: 50%;
+    margin-top: 10.5px;
+}
+.offer .dot1a img{
+width: 50%;   
+margin-left: 20px;
+padding-top: 8px;
+}
+.offer .dot1 .arrow1{
+    width: 20%;
+    margin-left: 20%;
+}
+.burge1{
+    display: flex;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+.burg1{
+    position: relative;
+    width: 100%;
+}
+.burg2{
+    width: 100%; 
+}
+.burg1a{
+    width: 100%;
+    margin-left: 70%;
+}
+.burg2a{
+    width: 100%;
+}
