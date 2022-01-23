@@ -1,5 +1,5 @@
 html{
-    background-color: whitesmoke;
+    background-color: white;
    
 }
 body{
@@ -22,27 +22,25 @@ ul.toplist li{
     font-size: x-large;
     text-align: right;
 }
-#content{
-    float: left;
-    margin: 10px;
-    padding: 20px;
-    height: 20px;
-}
-.top1{
-    text-align: center;
+#top{
+    display: flex;
     background: linear-gradient(
-        to right,
-        white 0%,
-        white 70%,
-        orange 30%,
+        to right
+        white 0%
+        white 70%
+        orange 30%
         orange 0%
-
     );
+    align-items: center;
+}
+.lburger{
+    max-width: 100%;
 }
 .rain{
     font-size: xx-large;
     font-family: 'Arial';
 }
+
 .we{
     font-weight: 400;
 }
@@ -50,11 +48,23 @@ button{
     background-color: orange;
     border-radius: 10%;
 }
+#ksp#ksp1{
+    width: 120px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+  }
+#offer{
+    background-color: whitesmoke;
+}
+#phone{
+    background-color: orange;
+}
 footer{
     font-weight: bold;
     display: center;
     
 }
-footer a{
-justify-content: right;
+#ksp{
+    background-color: whitesmoke;
 }
