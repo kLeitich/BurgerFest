@@ -79,7 +79,7 @@
     height: 50px;
     width: 150px;
     color: white;
-    background-clip: content-box;
+   
     background-color: orange;
     border-radius: 50px;
 }
@@ -87,8 +87,8 @@
     text-align: center;
     padding-top: 13px;
     font-family: 'poppins';
-    font-size: 15px;
-
+    font-size: 20px;
+    font-weight: 500;
 }
 #order h2 a{
     text-decoration: none;
