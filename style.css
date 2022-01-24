@@ -6,9 +6,11 @@
 
 
 
-
+.content{
+    background: linear-gradient(100deg,white 52%, orange 7%);
+}
 #topmenu .toplogo img{
-    margin-left: 50px;
+    margin-left: 30px;
     margin-top: 5px;
 }
 #topmenu .toplogo h1{
@@ -42,16 +44,9 @@
 #navmenu li a img{
     height: 40px;
 }
-
-
-
-
 #topmenu{
     padding-left: 90px;
     padding-top: 100px;
-}
-.content{
-    background: linear-gradient(100deg, white,white 52%, orange 7%);
 }
 #top{
     display: flex;
