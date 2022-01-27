@@ -1,21 +1,36 @@
-# BurgerFest
 
-Indpendent project of building a website as per the image on <a><img href="images/Project.png"></a>
+# Burgerfest
 
-Website name Burgerfest
+#### By Kevin Leitich
 
-Author:Kevin Leitich
-  
-  Project was developed in section:
-  1.Header
-  2.KSP-Key Selling Points
-  3.Menu
-  4.Offer
-  5.Phone
-  6.Footer
-  7.End
+## An independent project done at Moringa School
 
-https://kleitich.github.io/BurgerFest/
+## Table of Content
 
-All right reserved 2022.
-No licenses.
++ [Description](#Description)
++[Building-Block](#Building-Block)
++[Installation](#installation)
++[License](#License)
+
+## Description
+<P> It is a website done as an independent project to evaluate my understanding of HTML and CSS. It contains a Replica of an [project image](#images/Project.png)</p>
+
+## Building Block
+
+ <p>The website is design by using
+ *HTML- used to give structure to the website
+ *CSS- used to style the website</p>
+
+ ## Installation
+
+ *Have acces to internet
+ *Have a device that has a browser
+
+ ## License
+
+ [Click here to view](<a>src="license"</a>)
+
+[Go Back to the top](#Burgerfest)
+
+
+
