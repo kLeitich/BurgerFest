@@ -13,7 +13,7 @@
 +[License](#License)
 
 ## Description
-<P> It is a website done as an independent project to evaluate my understanding of HTML and CSS. It contains a Replica of an [project image](#images/Project.png)</p>
+<P> It is a website done as an independent project to evaluate my understanding of HTML and CSS. It contains a Replica of an [project image](images/Project.png)</p>
 
 ## Building Block
 
@@ -28,9 +28,6 @@
 
  ## License
 
- [Click here to view](<a>src="license"</a>)
+ [Click here to view](License)
 
 [Go Back to the top](#Burgerfest)
-
-
-
